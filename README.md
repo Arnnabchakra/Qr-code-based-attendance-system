@@ -32,6 +32,6 @@ The future scope of this project could involve:
 2. Implementing real-time video processing for live QR code detection.
 3. Integrating cloud-based storage for attendance records and analytics.
 
-
+# THANK YOU
 
 
